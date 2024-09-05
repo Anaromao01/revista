@@ -29,11 +29,7 @@ Este projeto é uma simples página no estilo de revista que apresenta um anúnc
 - [Font Awesome](https://fontawesome.com/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 
-## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Capturas de Tela
 
 ### Seção Hero
 ![Seção Hero](https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png)
